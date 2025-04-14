@@ -19,7 +19,9 @@ LocalStorage – For data persistence
  Edit task text
  Add filters (All / Completed / Active)
  Add due dates or priorities
-
+ 
 app- preview
+
+
 ![Screenshot from 2025-04-14 12-16-29](https://github.com/user-attachments/assets/e6f6bcd3-337b-4718-9fd1-ff0ebce8126e)
 
